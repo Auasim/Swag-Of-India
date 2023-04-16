@@ -1,6 +1,6 @@
 # SwagOfIndia E-commerce website (FrontEnd)
 
- <img width=500px height=200px src="" alt="Project logo">
+ <img width=500px height=200px src="Swag of India - Home - Google Chrome 16-04-2023 7.18.25 AM.png" alt="Project logo">
 
 Website : https://auasim.github.io/Swag-Of-India/
 
